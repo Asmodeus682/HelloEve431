@@ -26,6 +26,11 @@
 				<li><a href="facilitate.php">สิ่งอำนวยความสะดวก</li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อออออออออออออออ</li>
+
+					
+				<li><a href="contact.php">พวกนายทำอะไรกัน</li>
+
+					
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
@@ -33,5 +38,6 @@
 	</table>
 
 <body>
+
 
 
